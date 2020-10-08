@@ -1,8 +1,9 @@
 .user-card {
-    height: 80px;
-    width: 150px;
+    background-color: rgb(43, 12, 182);
+    color: whitesmoke;
+    float: left;
     margin: 5px;
     padding: 8px;
     position: relative;
-    color: navy;
+    width: 150px;
 }
